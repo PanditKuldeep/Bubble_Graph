@@ -1,4 +1,4 @@
-package com.example.bubble_graph_demo
+package com.kp.bubble_graph_demo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

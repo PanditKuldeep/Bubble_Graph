@@ -1,4 +1,4 @@
-package com.example.bubble_graph_demo
+package com.kp.bubble_graph_demo
 
 import android.content.Context
 import android.graphics.Color
