@@ -1,4 +1,4 @@
-package com.kp.bubble_graph_demo
+package com.example.bubble_graph_demo
 
 import org.junit.Test
 

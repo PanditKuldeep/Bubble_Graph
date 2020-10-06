@@ -1,4 +1,4 @@
-package com.kp.bubble_graph_demo
+package com.example.bubble_graph_demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

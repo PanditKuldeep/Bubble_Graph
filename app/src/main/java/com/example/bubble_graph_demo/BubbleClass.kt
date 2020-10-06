@@ -1,4 +1,4 @@
-package com.kp.bubble_graph_demo
+package com.example.bubble_graph_demo
 
 data class BubbleClass(
   val title:String? = "",
